@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Cascading Dropdown List with Ajax in Spring MVC Framework
+<title>Cascding Dropdown List with Ajax in Spring MVC Framework
 	and Spring Data JPA</title>
 </head>
 <body>
